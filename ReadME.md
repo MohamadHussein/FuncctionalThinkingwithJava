@@ -1,9 +1,10 @@
 # Functional Thinking with Java
 
 This project was created to document my learning journey where I learn new concepts and apply them on simple use-cases to solidify my understanding.
+
 Hopefully others will find this project helpful. 
 
-This repo is about functional programming in JAVA, where I implement and use some of the most common functions used in the functional paradigm
+This repo is about functional programming in JAVA, where I implement and use some of the most common operations used in the functional paradigm.
 
 ## Covered Concepts and Cases 
 * Composition
