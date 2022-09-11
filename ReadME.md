@@ -4,6 +4,8 @@ This project was created to document my learning journey where I learn new conce
 
 Hopefully others will find this project helpful. 
 
+Note: this code was written a while ago but I decided to publish it by the time of this repo creation.
+
 This repo is about functional programming in JAVA, where I implement and use some of the most common operations used in the functional paradigm.
 
 ## Covered Concepts and Cases 
